@@ -9,5 +9,5 @@
   - [[#meal-prep][Meal Prep]]
 
 * TASKS
-** Meal Prep                                                :@home:@errands:
+** TODO Meal Prep                                           :@home:@errands:
 
